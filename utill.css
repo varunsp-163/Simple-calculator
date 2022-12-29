@@ -1,0 +1,45 @@
+.text-center{
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+}
+
+.row{
+    margin: 2px 0;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+
+.max-auto{
+    margin: 8px;
+}
+
+
+.row input{
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px black solid;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.button{
+    width: 60px;
+}
+
+.input{
+    width: 259px;
+}
